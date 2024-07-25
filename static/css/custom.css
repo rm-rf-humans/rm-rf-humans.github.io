@@ -2,6 +2,3 @@
 --ls-main-content-max-width: 100%;
 }
 
-.fixed-width {
-  max-width: calc(var(--ls-main-content-max-width) - 30px);
-}
